@@ -23,7 +23,7 @@
 
 طريقة التثبيت
 1. استنساخ المشروع:
-   git clone https://github.com/yourusername/clinic-management.git
+   git clone https://github.com/Solimansorks/medical-appointment-site-with-dashboard
    cd clinic-management
 
 2. تثبيت التبعيات:
